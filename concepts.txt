@@ -1,0 +1,14 @@
+//---  core concepts ---- //
+
+introduction to Es6
+1. var let const 
+2. scopee in javascript
+3. templates string 
+4. ternary operator 
+5. Array Spreading 
+6. object Spreading
+7. object Accessing 
+8. Optional Chanining  of object=
+9. Function with default parameters
+10.Arrow Function
+11. Array Foreach, map , filter, find, Function
