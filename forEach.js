@@ -25,6 +25,6 @@ const arr = [10,20,30, 40, 50];
 // console.log(sum)
 
 // callback parameters (item,index, whole array)
-// arr.forEach((item,index,a)=>{
-//    console.log("item:", item, "index:",index,a)
-// });
+arr.forEach((item,index,a)=>{
+   console.log("item:", item, "index:",index,a)
+});
